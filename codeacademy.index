@@ -1,1 +1,44 @@
-s
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Github Page</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+
+  <body>
+    
+    <div class="container">
+    <div class="nav">
+    
+      <h1>1 Ollie Bike Sharing</h1>
+  <h2>2 little bit softer now</h2>
+    <h3>3 little bit softer now</h3>
+    <h4>4 little bit softer now</h4>
+  <h5>5 little bit softer now</h5>
+  <h6>6 little bit softer now</h6>
+    
+    <ul>
+  <li>sign up</li>
+  <li>search bikes</li>
+  <li>reserve a bike</li>
+  <li>about us</li>
+</ul>
+      </div>
+
+    <p>That should get you started!</p>
+    <p> Need a set of wheels while you're in town? Use Ollie to pair your perfect vacation with a stylish, affordable bike rental.</p>
+    <p> Here is a <a href="https://www.google.com">list</a> of cities where you can find us. </p>
+    <img src= "https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-1/bikes1.jpg"/>
+    <p> heres another pic, probably of a bike again.</p>
+    <img src= "https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-1/bikes2.jpg"/>
+    <p> It's like '90s internet over here! Where's the pixelated GIF of Goldberg doing a jacknife powerbomb?</p>
+    
+    <video width="320" height="240" controls>
+  <source src="https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-1/ollie.mp4" type="video/mp4">
+</video>
+
+    </div>
+    
+    
+  </body>
+</html>
