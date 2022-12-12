@@ -10,7 +10,7 @@ body {
 
 #container {
     background-color: #fcfae4;
-    width: 1000px;
+    width: 999px;
     margin: -10px auto -10px auto;
     border-radius: 300px 300px 15px 15px;
 }
