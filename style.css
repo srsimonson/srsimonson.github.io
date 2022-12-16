@@ -1,3 +1,8 @@
 h1 {
   border: 1px solid red;
 }
+
+.headshot {
+  border: 1px solid red;
+  background-image: linear-gradient(to left, rgba(224,224,224,0), rgba(224,224,224,1));
+}
